@@ -1,0 +1,2 @@
+Algorithmic Trading Dashboard & Auto-Execution Bot (Python, Flask, Selenium, Socket.IO)
+Developed a real-time automated trading system that monitors top stock movers, executes buy/sell decisions based on momentum strategy, and logs trades with live profit/loss tracking. Implemented WebSocket-based dashboard for real-time visualization and automated trade execution via Selenium on an online trading simulator.
